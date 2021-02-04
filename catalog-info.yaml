@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pingdom-configurator
+  annotations:
+    github.com/project-slug: Dorn-/pingdom-configurator
+spec:
+  type: other
+  lifecycle: unknown
