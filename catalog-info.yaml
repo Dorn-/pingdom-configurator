@@ -5,6 +5,7 @@ metadata:
   name: pingdom-configurator
   annotations:
     github.com/project-slug: Dorn-/pingdom-configurator
+    jira/project-key: BST-13
 spec:
   type: service
   lifecycle: experimental
