@@ -6,5 +6,5 @@ metadata:
   annotations:
     github.com/project-slug: Dorn-/pingdom-configurator
 spec:
-  type: other
-  lifecycle: unknown
+  type: service
+  lifecycle: alpha
